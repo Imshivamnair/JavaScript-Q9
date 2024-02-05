@@ -14,6 +14,3 @@ function decode_URI_String(uriString) {
   }
 }
 
-// Example:
-decode_URI_String('https://example.com/'); // Valid URI
-decode_URI_String('https://example.com/%%invalidURI'); // Invalid URI
